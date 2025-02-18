@@ -1,4 +1,4 @@
-package com.CSVDataHandlingTest.IntermediateProblemsTest;
+package com.CSVDataHandlingTest.IntermediateProblemsTest.FilterRecordsFromCSVTest;
 import org.example.com.CSVDataHandling.IntermediateProblems.FilterRecordsFromCSV.FilterCSVRecords;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
