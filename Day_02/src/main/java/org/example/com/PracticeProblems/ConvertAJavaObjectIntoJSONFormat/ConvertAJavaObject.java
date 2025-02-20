@@ -15,10 +15,10 @@ class Car {
     }
 }
 
-//main method
+//Main method
 public class ConvertAJavaObject {
     public static void main(String[] args) {
-        //creating a Car object
+        //creating a car object
         Car car = new Car("Tesla", "Pata nhi", 2024);
 
         Gson gson = new Gson();
